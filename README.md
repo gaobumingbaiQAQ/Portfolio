@@ -56,3 +56,4 @@ Portfolio
 - 剪辑视频详情见附属链接。
 - 建模展示如下：
 https://github.com/user-attachments/assets/f622516c-a219-4b07-9435-6c318aa11419
+- UI设计详情见文件夹的jsd文件以及页面图pdf。
